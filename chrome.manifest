@@ -1,0 +1,2 @@
+content   surabhi   chrome/content/
+overlay chrome://messenger/content/messenger.xul chrome://surabhi/content/content.xul
