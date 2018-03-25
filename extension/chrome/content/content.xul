@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<overlay id="sample"
+xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+ <script type="application/javascript" src="chrome://surabhi/content/overlay.js"/><!-- A reference to your JavaScript file -->
+ <row id="expandedtoRow">
+   <button id="getResponseBtn" style="background-color:#ff00ff;color:#008080">Smart Reply</button>
+   <div id="buttonGrp" collapsed="true">
+     <button style="color:#008080">Rjjfjda</button>
+     <button style="color:#008080"></button>
+     <button style="color:#008080"></button>
+   </div>
+ </row>
+</overlay>
